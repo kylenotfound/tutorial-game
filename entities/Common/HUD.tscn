@@ -1,0 +1,11 @@
+[gd_scene load_steps=2 format=3 uid="uid://yknxacksidey"]
+
+[ext_resource type="FontFile" uid="uid://c8n1skdipshyu" path="res://assets/fonts/PixelOperator8-Bold.ttf" id="1_unnuc"]
+
+[node name="CanvasLayer" type="CanvasLayer"]
+
+[node name="Coins Label" type="Label" parent="."]
+offset_right = 145.0
+offset_bottom = 21.0
+theme_override_fonts/font = ExtResource("1_unnuc")
+text = "Coins"

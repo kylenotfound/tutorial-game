@@ -1,0 +1,11 @@
+[gd_scene load_steps=2 format=3 uid="uid://dwg5ulelpm71k"]
+
+[ext_resource type="FontFile" uid="uid://d1milyltp33nv" path="res://assets/fonts/PixelOperator8.ttf" id="1_qt0co"]
+
+[node name="Label" type="Label"]
+offset_right = 40.0
+offset_bottom = 23.0
+theme_override_colors/font_color = Color(1, 1, 1, 1)
+theme_override_fonts/font = ExtResource("1_qt0co")
+theme_override_font_sizes/font_size = 8
+text = "Space to Jump"
